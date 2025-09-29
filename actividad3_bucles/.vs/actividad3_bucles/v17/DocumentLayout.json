@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\C\\actividad3_bucles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{084B5C94-7CB5-4AA8-AB36-D7F9FE3F7AB5}|actividad3_bucles\\actividad3_bucles.vcxproj|C:\\Users\\marti\\source\\repos\\C\\actividad3_bucles\\actividad3_bucles\\actividad3_bucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{084B5C94-7CB5-4AA8-AB36-D7F9FE3F7AB5}|actividad3_bucles\\actividad3_bucles.vcxproj|solutionrelative:actividad3_bucles\\actividad3_bucles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "actividad3_bucles.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\C\\actividad3_bucles\\actividad3_bucles\\actividad3_bucles.cpp",
+              "RelativeDocumentMoniker": "actividad3_bucles\\actividad3_bucles.cpp",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\C\\actividad3_bucles\\actividad3_bucles\\actividad3_bucles.cpp",
+              "RelativeToolTip": "actividad3_bucles\\actividad3_bucles.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T13:58:32.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
