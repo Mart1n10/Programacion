@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\C\\Mart\u00EDn_G\u00F3mezPorras_strings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC71C08-5C53-4300-BE7C-5FE0C24D6FA6}|Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.vcxproj|C:\\Users\\marti\\source\\repos\\C\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BC71C08-5C53-4300-BE7C-5FE0C24D6FA6}|Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.vcxproj|solutionrelative:Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mart\u00EDn_G\u00F3mezPorras_strings.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\C\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp",
+              "RelativeDocumentMoniker": "Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\C\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp",
+              "RelativeToolTip": "Mart\u00EDn_G\u00F3mezPorras_strings\\Mart\u00EDn_G\u00F3mezPorras_strings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T18:23:40.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
