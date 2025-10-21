@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Martín_Gómez_HundirLaFlota", "Martín_Gómez_HundirLaFlota\Martín_Gómez_HundirLaFlota.vcxproj", "{F743D5AE-B1F7-4458-9FA6-5C61D770E625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Debug|x64.ActiveCfg = Debug|x64
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Debug|x64.Build.0 = Debug|x64
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Debug|x86.ActiveCfg = Debug|Win32
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Debug|x86.Build.0 = Debug|Win32
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Release|x64.ActiveCfg = Release|x64
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Release|x64.Build.0 = Release|x64
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Release|x86.ActiveCfg = Release|Win32
+		{F743D5AE-B1F7-4458-9FA6-5C61D770E625}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6F74AA-2C2D-478B-8AA1-17CFA2DBBCEA}
+	EndGlobalSection
+EndGlobal

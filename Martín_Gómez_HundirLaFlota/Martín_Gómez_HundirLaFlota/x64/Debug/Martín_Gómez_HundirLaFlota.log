@@ -1,0 +1,3 @@
+﻿  Martín_Gómez_HundirLaFlota.cpp
+C:\Users\marti\source\repos\C\Martín_Gómez_HundirLaFlota\Martín_Gómez_HundirLaFlota\Martín_Gómez_HundirLaFlota.cpp(22,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Martín_Gómez_HundirLaFlota.vcxproj -> C:\Users\marti\source\repos\C\Martín_Gómez_HundirLaFlota\x64\Debug\Martín_Gómez_HundirLaFlota.exe
