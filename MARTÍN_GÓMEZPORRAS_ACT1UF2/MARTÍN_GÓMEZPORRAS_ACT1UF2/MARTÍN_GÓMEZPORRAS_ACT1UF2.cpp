@@ -29,6 +29,7 @@ int main() {
 	Ejercicio4();
 	Ejercicio5();
 	Ejercicio6();
+	return 0;
 }
 
 void Ejercicio1()
@@ -90,7 +91,6 @@ void Ejercicio5() {
 }
 
 int Negativo(int numE5) {
-	int cont = 0;
 	if (numE5 < 0) printf("1");
 	else printf("0");
 	return 0;
