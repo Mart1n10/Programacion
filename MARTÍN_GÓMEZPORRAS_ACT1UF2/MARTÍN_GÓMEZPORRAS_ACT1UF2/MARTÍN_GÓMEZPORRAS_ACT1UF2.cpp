@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 void Ejercicio1();
-void Par(int num);
+int Par(int num);
 
 void Ejercicio2();
-void Media2(float num1, float num2);
+float Media2(float num1, float num2);
 
 void Ejercicio3();
 void Media3(float numR1, float numR2, float numR3);
@@ -37,12 +37,12 @@ void Ejercicio1()
 	int num;
 	printf("EJ1- Introduce un numero y te dire si es par(1) o impar(0): ");
 	scanf_s("%d", &num);
-	Par(num);
+	printf("Resultado: %d\n", Par(num));
 }
 
-void Par(int num) {
-	if (num % 2 == 0) printf("1");
-	else printf("0");
+int Par(int num) {
+	if (num % 2 == 0) return 1;
+	else return 0;
 }
 
 void Ejercicio2() {
@@ -51,13 +51,12 @@ void Ejercicio2() {
 	printf("EJ2- Introduce numeros reales, y te dare la media\n");
 	scanf_s("%f", &num1);
 	scanf_s("%f", &num2);
-	Media2(num1, num2);
+	printf("La media de %.2f y %.2f es: %.2f\n", num1, num2, Media2(num1, num2));
 }
 
-void Media2(float num1, float num2)
+float Media2(float num1, float num2)
 {
-	float media2 = (num1 + num2) / 2;
-	printf("La media de %.2f y %.2f es: %.2f", num1, num2, media2);
+	return (num1 + num2) / 2;
 }
 
 void Ejercicio3() {
@@ -87,13 +86,14 @@ void Ejercicio5() {
 	printf("\n\n");
 	printf("EJ5- Introduce un numero entero, si es (-) devuelve 1, si es (+) devuelve 0: ");
 	scanf_s("%d", &numE5);
-	Negativo(numE5);
+	if (Negativo(numE5) == 1) {
+		printf("El resultado de tu numero %d, es %d, negativo", numE5, Negativo(numE5));
+	} else printf("El resultado de tu numero %d, es %d, positivo", numE5, Negativo(numE5));
 }
 
 int Negativo(int numE5) {
-	if (numE5 < 0) printf("1");
-	else printf("0");
-	return 0;
+	if (numE5 < 0) return 1;
+	else return 0;
 }
 
 void Ejercicio6() {
@@ -111,8 +111,8 @@ void Op(float num1E6, float num2E6) {
 	printf("Suma: %.2f\n", Suma(num1E6, num2E6));
 	printf("Resta: %.2f\n", Resta(num1E6, num2E6));
 	printf("Multiplicacion: %.2f\n", Multiplicacion(num1E6, num2E6));
-	if (num2E6 == 0) printf("No se puede dividir entre 0");
-	else printf("Division: %.2f", Division(num1E6, num2E6));
+	if (num2E6 == 0) printf("No se puede dividir entre 0\n");
+	else printf("Division: %.2f\n", Division(num1E6, num2E6));
 }
 
 float Suma(float num1E6, float num2E6) {
