@@ -1,0 +1,13 @@
+﻿  GómezPorras_Martín_M3-UF1.cpp
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(152,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(152,27): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(156,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(156,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(160,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(160,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(167,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(167,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(172,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(172,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1\GómezPorras_Martín_M3-UF1.cpp(213,15): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  GómezPorras_Martín_M3-UF1.vcxproj -> C:\Users\marti\source\repos\C\GómezPorras_Martín_M3-UF1\x64\Debug\GómezPorras_Martín_M3-UF1.exe
