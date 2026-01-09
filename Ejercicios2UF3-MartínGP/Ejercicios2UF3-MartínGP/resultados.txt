@@ -1,0 +1,1 @@
+Total de numeros iguales o menores que 5: 9

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\source\\repos\\C\\Ejercicios2UF3-Mart\u00EDnGP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB81B04B-2AC9-4954-896D-5DDF733B29CF}|Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.vcxproj|C:\\Users\\marti\\source\\repos\\C\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB81B04B-2AC9-4954-896D-5DDF733B29CF}|Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.vcxproj|solutionrelative:Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicios2UF3-Mart\u00EDnGP.cpp",
+              "DocumentMoniker": "C:\\Users\\marti\\source\\repos\\C\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp",
+              "RelativeDocumentMoniker": "Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp",
+              "ToolTip": "C:\\Users\\marti\\source\\repos\\C\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp",
+              "RelativeToolTip": "Ejercicios2UF3-Mart\u00EDnGP\\Ejercicios2UF3-Mart\u00EDnGP.cpp",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAEEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T13:14:16.879Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
